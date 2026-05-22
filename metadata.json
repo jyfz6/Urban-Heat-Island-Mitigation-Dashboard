@@ -1,0 +1,6 @@
+{
+  "name": "Urban Heat Island Mitigation Dashboard",
+  "description": "An interactive urban heat island and energy optimization simulator for testing green roofs and canopy cooling benefits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
